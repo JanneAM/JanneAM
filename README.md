@@ -1,6 +1,3 @@
-<!--
-**JanneAM/JanneAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Hi,
 
 I am Janne Majasalmi. Currently I am studying fullstack developing with React and Node.
